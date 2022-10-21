@@ -1,0 +1,11 @@
+C:\Users\oj09i\source\repos\lewis ai\lewis ai\bin\Debug\lewis ai.exe.config
+C:\Users\oj09i\source\repos\lewis ai\lewis ai\bin\Debug\lewis ai.exe
+C:\Users\oj09i\source\repos\lewis ai\lewis ai\bin\Debug\lewis ai.pdb
+C:\Users\oj09i\source\repos\lewis ai\lewis ai\obj\Debug\lewis ai.csprojAssemblyReference.cache
+C:\Users\oj09i\source\repos\lewis ai\lewis ai\obj\Debug\lewis_ai.Lewis_AI.resources
+C:\Users\oj09i\source\repos\lewis ai\lewis ai\obj\Debug\lewis_ai.Properties.Resources.resources
+C:\Users\oj09i\source\repos\lewis ai\lewis ai\obj\Debug\lewis ai.csproj.GenerateResource.cache
+C:\Users\oj09i\source\repos\lewis ai\lewis ai\obj\Debug\lewis ai.csproj.CoreCompileInputs.cache
+C:\Users\oj09i\source\repos\lewis ai\lewis ai\obj\Debug\lewis ai.exe
+C:\Users\oj09i\source\repos\lewis ai\lewis ai\obj\Debug\lewis ai.pdb
+C:\Users\oj09i\source\repos\lewis ai\lewis ai\obj\Debug\Tutorial_AI.Form1.resources
